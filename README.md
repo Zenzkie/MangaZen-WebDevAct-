@@ -1,2 +1,2 @@
 # MangaZen-WebDevAct-
-WebDev activity
+- Merry Christmas and Happy New Year!!
